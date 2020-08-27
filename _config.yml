@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Jingzhe Wang"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student Department of Informatics and Networked Systems University of Pittsburgh"
+  bio              : |
+                      "Ph.D. Student"
+                      "Department of Informatics and Networked Systems"
+                      "University of Pittsburgh"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
